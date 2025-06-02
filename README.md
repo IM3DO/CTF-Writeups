@@ -1,4 +1,3 @@
-# CTF-Writeups
+# CTFs
 
-This is writeups for CTFs I have done.
-I'll be documenting them based on their catagories.
+This is where I will share CTF Write-Ups and CTFs that I have worked on.
